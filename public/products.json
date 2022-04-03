@@ -5,7 +5,7 @@
       "ratings": 5,
       "review" : "Stores always nice and clean, friendly customer service always helping and showing around if i cannot find something.",
       "date" : "20-3-2000",
-      "img": "https://images.pexels.com/photos/110471/pexels-photo-110471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "ratings": 4,
       "review" : "Great customer service. Even when there was a problem with paperwork the employees continued helping us and fixed the issue. Very patient workers and quick, easy and painless process",
       "date" : "22-3-2000",
-      "img": "https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
       "ratings": 4,
       "review" : "The customer services lady was so helpful! She wouldn’t give up until she had found a solution in their computer records. She really went above and beyond, I would give her 6 stars if I could.",
       "date" : "18-3-2000",
-      "img": "https://images.pexels.com/photos/162426/clock-time-collection-old-162426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/997512/pexels-photo-997512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "ratings": 3,
       "review" : "Customer service is obviously their strategy and it shows. I have referred others already.",
       "date" : "2-4-2020",
-      "img": "https://images.pexels.com/photos/295884/pexels-photo-295884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 "
+      "img": "https://images.pexels.com/photos/4195342/pexels-photo-4195342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
     },
     {
@@ -46,39 +46,7 @@
       "ratings": 5,
       "review": "Very polite and helpful customer service. Response was very satisfactory, given the current health emergency.",
       "date" : "18-3-2002",
-      "img": "https://images.pexels.com/photos/2922718/pexels-photo-2922718.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-    },
-    {
-      "id": 7,
-      "name": "Close-up of Watch Against",
-      "ratings": 5,
-      "review": "Very polite and helpful customer service. Response was very satisfactory, given the current health emergency.",
-      "date" : "05-3-2018",
-      "img": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-    },
-    {
-      "id": 8,
-      "name": "Silver Wedding Rings",
-      "ratings": 5,
-      "review": "store was absolutely helpful in helping me find some office decor. He was so accommodating, and patient. I cant thank him enough! Thank you so much (EN) for such a WONDERFUL experience.",
-      "date" : "21-1-2016",
-      "img": "https://images.pexels.com/photos/115566/pexels-photo-115566.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-    },
-    {
-      "id": 9,
-      "name": "Yellow Watch on Tabletop",
-      "ratings": 4,
-      "review": "I truly love the top notch friendly and very professional customer service I’ve received from (Company)",
-      "date" : "22-5-2021",
-      "img": "https://images.pexels.com/photos/1550637/pexels-photo-1550637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-      "id": 10,
-      "name": "Brass Pocket Watch",
-      "ratings": 4,
-      "review": "Fantastic company! Excellent customer service, efficient process.",
-      "date" : "12-12-2012",
-      "img": "https://images.pexels.com/photos/295885/pexels-photo-295885.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+      "img": "https://images.pexels.com/photos/997512/pexels-photo-997512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
   ]
    

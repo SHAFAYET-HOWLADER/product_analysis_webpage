@@ -26,3 +26,34 @@
     width: 400px;
     height: 400px;
 }
+.home_left button{
+    border :none;
+    padding: 10px 25px;
+    background-color: lightseagreen;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.container .button{
+    border :none;
+    padding: 5px 50px;
+    background-color: lightseagreen;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin: 30px 0px;
+}
+.container h2{
+    font-size: 35px;
+}
+.product_area {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #d1d1d1;
+    padding: 15px;
+    border-radius: 8px;
+}
