@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Silver Linked Bracelet",
+      "ratings": 5,
+      "img": "https://images.pexels.com/photos/110471/pexels-photo-110471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    },
+    {
+      "id": 2,
+      "name": "Close-Up Photo of Wristwatch",
+      "ratings": 4,
+      "img": "https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    },
+    {
+      "id": 3,
+      "name": "Round Silver Colored Fossil",
+      "ratings": 4.5,
+      "img": "https://images.pexels.com/photos/1075189/pexels-photo-1075189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    },
+    {
+      "id": 4,
+      "name": "Used Round Silver-colored",
+      "ratings": 4,
+      "img": "https://images.pexels.com/photos/162426/clock-time-collection-old-162426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    },
+    {
+      "id": 5,
+      "name": "Round Silver-colored Analog",
+      "ratings": 3,
+      "img": "https://images.pexels.com/photos/295884/pexels-photo-295884.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 ",
+
+    },
+    {
+      "id": 6,
+      "name": "White Rider Analog",
+      "ratings": 5,
+      "img": "https://images.pexels.com/photos/2922718/pexels-photo-2922718.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",;
+    },
+    {
+      "id": 7,
+      "name": "Close-up of Watch Against",
+      "ratings": 5,
+      "img": "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    },
+    {
+      "id": 8,
+      "name": "Silver Wedding Rings",
+      "ratings": 5,
+      "img": "https://images.pexels.com/photos/115566/pexels-photo-115566.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    },
+    {
+      "id": 9,
+      "name": "Yellow Watch on Tabletop",
+      "ratings": 4,
+      "img": "https://images.pexels.com/photos/1550637/pexels-photo-1550637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    },
+    {
+      "id": 10,
+      "name": "Brass Pocket Watch",
+      "ratings": 4,
+      "img": "https://images.pexels.com/photos/295885/pexels-photo-295885.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    }
+  ]
+   

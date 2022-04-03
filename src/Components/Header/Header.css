@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #d1d1d1;
+    height: 60px;
+}
+.index {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+.index a{
+    margin: 0px 25px;
+    color: #000;
+    line-height: 60px;
+}
