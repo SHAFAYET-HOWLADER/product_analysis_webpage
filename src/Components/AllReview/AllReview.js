@@ -1,8 +1,7 @@
 import React from 'react';
-import './CustomerReview.css'
 import { FaStarHalfAlt } from 'react-icons/fa';
-const CustomerReview = (props) => {
-    const {name, img,review,date} = props.product;
+const AllReview = (props) => {
+    const {img,name,review,date} = props.review;
     return (
         <div className='review_area'>
             <div className='review_flex'>
@@ -28,4 +27,4 @@ const CustomerReview = (props) => {
     );
 };
 
-export default CustomerReview;
+export default AllReview;

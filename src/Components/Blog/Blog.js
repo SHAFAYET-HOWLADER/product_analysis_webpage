@@ -2,8 +2,16 @@ import React from 'react';
 
 const Blog = () => {
     return (
-        <div>
-            <h1>this is blogs</h1>
+        <div className='container'>
+            <h1>Frequently ask question : </h1>
+             <div className='question'>
+                 <p>
+                     1. Explanation about Context API
+                 </p>
+                 <small>
+                     
+                 </small>
+             </div>
         </div>
     );
 };

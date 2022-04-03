@@ -1,11 +1,15 @@
-import React from 'react';
 import banner from '../../images/banner.jpg'
 import './Home.css'
 import useProducts from '../../hooks/useProducts';
 import CustomerReview from '../CustomerReview/CustomerReview';
+import { useNavigate } from 'react-router-dom';
+import Review from '../Review/Review';
 const Home = () => {
     const [products, serProducts] = useProducts();
-    console.log(products)
+    const navigate = useNavigate();
+    const exploreReviews = ()=>{
+        navigate(`/review`)
+    }
     return (
       <section>
            <div className="container">
@@ -25,10 +29,10 @@ const Home = () => {
            <h2>Customer Reviews ({products.length}) </h2>
            <div  className='product_area'>
                 {
-                    products.map(product=><CustomerReview key={product.id} product={product}></CustomerReview>)
+                    products.slice(0,3).map(product=><CustomerReview key={product.id} product={product}></CustomerReview>)
                 }
            </div>
-           <button className='button' type='button'>See All Reviews</button>
+           <button onClick={()=>exploreReviews()} className='button' type='button'>See All Reviews</button>
        </div>
       </section>
     );
