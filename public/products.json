@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "name": "Silver Linked Bracelet",
+      "name": "Smith Russel",
       "ratings": 5,
       "review" : "Stores always nice and clean, friendly customer service always helping and showing around if i cannot find something.",
       "date" : "20-3-2000",
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "name": "Close-Up Photo of Wristwatch",
+      "name": "Jon Franklin",
       "ratings": 4,
       "review" : "Great customer service. Even when there was a problem with paperwork the employees continued helping us and fixed the issue. Very patient workers and quick, easy and painless process",
       "date" : "22-3-2000",
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "name": "Round Silver Colored Fossil",
+      "name": "Bravo charles",
       "ratings": 4.5,
       "review" : "Best customer service. I really appreciate all the efforts that (EN). From customer service department he put on solving my issue. I was pleasantly surprised. Great work!",
       "date" : "20-4-2002",
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "name": "Used Round Silver-colored",
+      "name": "nelson Amita",
       "ratings": 4,
       "review" : "The customer services lady was so helpful! She wouldn’t give up until she had found a solution in their computer records. She really went above and beyond, I would give her 6 stars if I could.",
       "date" : "18-3-2000",
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "name": "Round Silver-colored Analog",
+      "name": "Abraham jenish",
       "ratings": 3,
       "review" : "Customer service is obviously their strategy and it shows. I have referred others already.",
       "date" : "2-4-2020",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "name": "White Rider Analog",
+      "name": "marvel guava",
       "ratings": 5,
       "review": "Very polite and helpful customer service. Response was very satisfactory, given the current health emergency.",
       "date" : "18-3-2002",

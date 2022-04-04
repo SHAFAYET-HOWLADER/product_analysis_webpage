@@ -3,7 +3,6 @@ import './Home.css'
 import useProducts from '../../hooks/useProducts';
 import CustomerReview from '../CustomerReview/CustomerReview';
 import { useNavigate } from 'react-router-dom';
-import Review from '../Review/Review';
 const Home = () => {
     const [products, serProducts] = useProducts();
     const navigate = useNavigate();
