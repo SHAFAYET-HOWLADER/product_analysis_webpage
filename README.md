@@ -1,6 +1,6 @@
 # Assignment-9-[React routing responsive project]
 
-This project was hosted with as Project name [Assignment-9](https://github.com/facebook/create-react-app) and Project live link : https://github.com/facebook/create-react-app.
+This project was hosted with as Project name [Assignment-9](https://subtle-gumdrop-ff88cb.netlify.app/) and Project live link : https://subtle-gumdrop-ff88cb.netlify.app/.
 # Projects Details : 
 * React routing : This Projects was developed by using react routing.
 * Project Components : This Projects was created to exploring product review such as customer reviews,ratings and comments.
