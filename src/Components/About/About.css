@@ -41,3 +41,6 @@
     font-weight: 500;
     padding: 5px 0px;
 }
+.about_part >div small{
+    color: lightseagreen;
+}
