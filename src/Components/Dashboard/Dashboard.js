@@ -45,7 +45,7 @@ const Dashboard = () => {
             <div>
             <h2>LineChart : </h2>
             </div>
-            <LineChart width={550} height={250} data={data}>
+            <LineChart width={390} height={250} data={data}>
             <Line type="monotone" dataKey={'sell'} stroke="#8884d8" />
             <Line dataKey={"balance"} type="monotone" stroke="#d1d1d1"></Line>
             <CartesianGrid strokeDasharray="3 3" />
@@ -60,7 +60,7 @@ const Dashboard = () => {
             <div>
                 <h2>PieChart</h2>
             </div>
-            <PieChart width={550} height={250}>
+            <PieChart width={390} height={250}>
                 <Pie data={data} dataKey={"sell"} nameKey="name" cx="50%" cy="50%" outerRadius={50} fill="#8884d8" />
                 <Pie data={data} dataKey={"sell"} nameKey="name" cx="50%" cy="50%" innerRadius={60} outerRadius={80} fill="#82ca9d" label />
             </PieChart>
@@ -70,7 +70,7 @@ const Dashboard = () => {
                 <h2>BarChart : 
           </h2>
             </div>
-        <BarChart width={550} height={250} data={data}>
+        <BarChart width={390} height={250} data={data}>
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="name" />
                 <YAxis />
@@ -84,7 +84,7 @@ const Dashboard = () => {
             <div>
                 <h2>ComposedChart : </h2>
             </div>
-        <ComposedChart width={550} height={250} data={data}>
+        <ComposedChart   width={390} height={250} data={data}>
             <XAxis dataKey="name" />
             <YAxis />
             <Tooltip />

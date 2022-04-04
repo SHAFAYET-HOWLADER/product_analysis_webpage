@@ -7,12 +7,12 @@ const About = () => {
     return (
         <div className='container'>
             <h1 className='about_heading'>Know about us here</h1>
-            <div className=''>
-                  <h2>welcome to our Managing part</h2>
+            <div className='about_heading_two'>
+                  <h3>welcome to our Managing part</h3>
                   <div className='about_part'>
                       <div>
                           <img src={person_one} alt="" />
-                           <h3>Jon Franklin</h3>
+                           <h4>Jon Franklin</h4>
                            <small>Founder of watch mart</small>
                            <p>
                                <p>
@@ -22,7 +22,7 @@ const About = () => {
                       </div>
                       <div>
                           <img src={person_two} alt="" />
-                           <h3>Jon charles</h3>
+                           <h4>Jon charles</h4>
                            <small>Sales man and investor</small>
                            <p>
                            The salesperson is responsible for greeting customers, helping them find items in the store, and ringing up purchases. To be successful as a salesperson you must have excellent communication skills. 
@@ -30,7 +30,7 @@ const About = () => {
                       </div>
                       <div>
                           <img src={person_three} alt="" />
-                           <h3>Jon jackson</h3>
+                           <h4>Jon jackson</h4>
                            <small>Product manager</small>
                            <p>
                            A Sales Manager, or Sales Department Manager, is responsible for overseeing daily operations in the sales department. Their duties include hiring and training sales staff, relaying information from upper management.
