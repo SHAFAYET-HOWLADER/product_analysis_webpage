@@ -1,7 +1,10 @@
-
-.question small{
-    font-size: 17px;
-    text-align: justify;
-    font-weight: 500;
+.question p{
+    text-align: left;
+    font-size: 18px;
+    font-weight: 400;
     line-height: 24px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.question {
+    margin: 10px 0px;
 }

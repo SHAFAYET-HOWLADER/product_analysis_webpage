@@ -3,6 +3,7 @@ import './App.css';
 import About from './Components/About/About';
 import Blog from './Components/Blog/Blog';
 import Contact from './Components/Contact/Contact';
+import CopyRight from './Components/CopyRight/CopyRight';
 import Dashboard from './Components/Dashboard/Dashboard';
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
@@ -23,6 +24,7 @@ function App() {
          <Route path='/contact' element={<Contact/>}>Contact</Route>
          <Route path='*' element={<NotAvailAble/>}></Route>
      </Routes>
+     <CopyRight></CopyRight>
     </div>
   );
 }

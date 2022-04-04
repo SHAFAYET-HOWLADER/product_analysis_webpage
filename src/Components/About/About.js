@@ -8,7 +8,7 @@ const About = () => {
         <div className='container'>
             <h1 className='about_heading'>Know about us here</h1>
             <div className=''>
-                  <h3>welcome to our Managing part</h3>
+                  <h2>welcome to our Managing part</h2>
                   <div className='about_part'>
                       <div>
                           <img src={person_one} alt="" />

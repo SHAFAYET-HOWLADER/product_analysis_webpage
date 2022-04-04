@@ -1,0 +1,10 @@
+
+.ratings small{
+  margin-top:  5px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.handIcon{
+    margin: 10px 5px 5px;
+    color: rgb(115, 107, 62);
+}

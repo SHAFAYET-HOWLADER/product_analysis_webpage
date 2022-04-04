@@ -10,7 +10,7 @@
     {
       "id": 2,
       "name": "Jon Franklin",
-      "ratings": 4,
+      "ratings": 5,
       "review" : "Great customer service. Even when there was a problem with paperwork the employees continued helping us and fixed the issue. Very patient workers and quick, easy and painless process",
       "date" : "22-3-2000",
       "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "name": "Bravo charles",
-      "ratings": 4.5,
+      "ratings": 5,
       "review" : "Best customer service. I really appreciate all the efforts that (EN). From customer service department he put on solving my issue. I was pleasantly surprised. Great work!",
       "date" : "20-4-2002",
       "img": "https://images.pexels.com/photos/1075189/pexels-photo-1075189.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "name": "nelson Amita",
-      "ratings": 4,
+      "ratings": 5,
       "review" : "The customer services lady was so helpful! She wouldn’t give up until she had found a solution in their computer records. She really went above and beyond, I would give her 6 stars if I could.",
       "date" : "18-3-2000",
       "img": "https://images.pexels.com/photos/997512/pexels-photo-997512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

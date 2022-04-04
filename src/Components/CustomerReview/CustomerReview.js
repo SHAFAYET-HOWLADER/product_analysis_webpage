@@ -1,8 +1,9 @@
 import React from 'react';
 import './CustomerReview.css'
 import { FaStarHalfAlt } from 'react-icons/fa';
+import { FaHandPointRight } from 'react-icons/fa';
 const CustomerReview = (props) => {
-    const {name, img,review,date} = props.product;
+    const {name, img,review,date,ratings} = props.product;
     return (
         <div className='review_area'>
             <div className='review_flex'>
@@ -11,6 +12,12 @@ const CustomerReview = (props) => {
             <h4> {name.slice(0,15)} </h4>
             </div>
              <div className='review_flex'>
+             <div className='ratings'>
+               <small>{ratings}</small>
+             </div>
+             <div className="handIcon">
+              <FaHandPointRight></FaHandPointRight>
+             </div>
             <div className='icon'>
                     <FaStarHalfAlt></FaStarHalfAlt>
                     <FaStarHalfAlt></FaStarHalfAlt>
