@@ -4,7 +4,6 @@ import AllReview from '../AllReview/AllReview';
 
 const Review = () => {
     const [reviews, setReviews] = useProducts()
-    console.log(reviews)
     return (
           <div className='container'>
             <h1>What our customers says ! </h1>

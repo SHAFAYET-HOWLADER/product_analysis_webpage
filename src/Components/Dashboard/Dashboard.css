@@ -1,0 +1,9 @@
+
+.lineChart{
+    margin: 20px;
+}
+.chartArea{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+}
